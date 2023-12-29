@@ -137,7 +137,7 @@ body {
 
 .product__button[data-icon="icon"]::before {
     content: "";
-    background-image: url(/images/icon-cart.svg);
+    background-image: url(images/icon-cart.svg);
     width: 15px;
     height: 15px;
 }
