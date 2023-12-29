@@ -142,6 +142,11 @@ body {
     height: 15px;
 }
 
+button:focus,
+ button:hover {
+    background-color: var(--dark-blue);
+}
+
 .product__prices {
     display: flex;
     flex-direction: row;
